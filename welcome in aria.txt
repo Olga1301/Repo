@@ -1,1 +1,1 @@
-print "welcome in aria"
+print "welcome in aria!"
