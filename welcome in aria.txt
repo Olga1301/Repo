@@ -1,2 +1,2 @@
-print "welcome in aria!"
-print ("hello")
+print "welcome in aria!;"
+print ("hello";)
